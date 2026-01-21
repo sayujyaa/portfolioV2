@@ -14,7 +14,7 @@ export const contactData = [
     title: "github",
     image:
       "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg",
-    content: "https://github.com/AyjuYaas",
+    content: "https://github.com/sayujyaa",
   },
   {
     title: "linkedIn",
