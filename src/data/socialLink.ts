@@ -11,7 +11,7 @@ export const socialLink: SocialLinkType[] = [
     name: "github",
     image:
       "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg",
-    link: "https://github.com/AyjuYaas",
+    link: "https://github.com/sayujyaa",
   },
   {
     id: "2",
